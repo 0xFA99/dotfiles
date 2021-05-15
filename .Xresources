@@ -1,40 +1,40 @@
 ! URXVT CONFIGURATION
-URxvt.font:				xft: M+ 1mn:size=11, \
-						xft: Iosevka Nerd Font Mono:size=11
-URxvt.letterSpace:		0
+URxvt.font:		xft: M+ 1mn:size=11, \
+			xft: Iosevka Nerd Font Mono:size=11
+URxvt.letterSpace:	0
 URxvt.internalBorder:	24
-URxvt.cursorBlink:		false
+URxvt.cursorBlink:	false
 URxvt.cursorUnderline:	true
-URxvt.scrollBar:		false
-URxvt.depth:			32
-URxvt.iso14755:			false
-URxvt.background:		[95]#F9F9F9
+URxvt.scrollBar:	false
+URxvt.depth:		32
+URxvt.iso14755:		false
+URxvt.background:	[95]#F9F9F9
 
 ! XFT CONFIGURATION
-Xft.antialias:			1
-Xft.dpi:				72
-Xft.hinting:			1
-Xft.lcdfilter:			hintlight
-Xft.rgba:				lcddefault
+Xft.antialias:		1
+Xft.dpi:		72
+Xft.hinting:		1
+Xft.lcdfilter:		hintlight
+Xft.rgba:		lcddefault
 
 ! COLOR SCHEME
-*foreground:			#373E4D
-*background:			#F9F9F9
-*cursorColor:			#373E4D
+*foreground:		#373E4D
+*background:		#F9F9F9
+*cursorColor:		#373E4D
 
-*color0:				#F7F7F7
-*color1:				#FB6396
-*color2:				#94CF95
-*color3:				#F692B2
-*color4:				#6EC1D6
-*color5:				#CD84C8
-*color6:				#7FE4D2
-*color7:				#434C5E
-*color8:				#F4F4F4
-*color9:				#F92D72
-*color10:				#6CCB6E
-*color11:				#F26190
-*color12:				#4CB9D6
-*color13:				#C269BC
-*color14:				#58D6BF
-*color15:				#4C566A
+*color0:		#F7F7F7
+*color1:		#FB6396
+*color2:		#94CF95
+*color3:		#F692B2
+*color4:		#6EC1D6
+*color5:		#CD84C8
+*color6:		#7FE4D2
+*color7:		#434C5E
+*color8:		#F4F4F4
+*color9:		#F92D72
+*color10:		#6CCB6E
+*color11:		#F26190
+*color12:		#4CB9D6
+*color13:		#C269BC
+*color14:		#58D6BF
+*color15:		#4C566A
