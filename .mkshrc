@@ -1,0 +1,6 @@
+PS1="> "
+
+HISTFILE="$HOME/.mksh.history"
+HISTSIZE=1024
+
+bind -m '^L'=clear'^J'
